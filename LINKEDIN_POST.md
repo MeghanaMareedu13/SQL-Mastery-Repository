@@ -6,7 +6,7 @@
 
 📊 **Day 3 of 30: 5 SQL Queries Every Data Professional Should Know**
 
-SQL is the backbone of data engineering and analysis. At Virtusa, I used these patterns daily to transform billions of rows into clear business insights. 
+SQL is the backbone of data engineering and analysis. In my past internship, I used these patterns daily to transform billions of rows into clear business insights. 🛡️
 
 Today, I’m sharing my **SQL Mastery Repository** – a deep dive into the queries that move the needle in enterprise environments.
 
